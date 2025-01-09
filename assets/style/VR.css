@@ -1,0 +1,123 @@
+/* h1{
+    color: rgb(58, 14, 99);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 28px;
+    font-style: normal;
+    color: rgb(58, 14, 99);
+}
+.card_text{
+font-weight: lighter;
+
+}
+.card_text_blok_1{
+    display: flex;
+}
+.card_text_blok_2{
+    display: flex;
+    
+    justify-content: space-around;
+    
+} */
+h1{
+    color: rgb(58, 14, 99);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.image_text_container{
+    position: relative;
+    display: inline-block;
+    margin-left: 140px;
+}
+.news{
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    transform: translate(-50%,-50%);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+.email{
+    position: absolute;
+    top: 35%;
+    left: 15%;
+    transform: translate(-50%,-50%);
+    color: black;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+.rectangl{
+    border-style: initial;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+.button{
+    border-style: initial;
+    position: absolute;
+    top: 70%;
+    left: 23%;
+    transform: translate(-50%,-50%);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+} 
+.rtu-blok-2{
+    margin-top: 30px;
+}
+
+
+
+
+
+.b-page{
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:16px;
+}
+
+.b-item-head__text, .b-item-head__text_1,.b-item-head__text_2, .b-item-head__text_3{
+    font-size: 28px;
+    font-style: bold;
+    color: rgb(58, 14, 99);
+    
+}
+.rtu-blok-1, .rtu-blok-2{
+    display: flex;
+}
+.b-company__4{
+    margin-left: 120px;
+}
+.title{
+    color: rgb(58, 14, 99);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.b-company__content{
+    float: left;
+    margin-left: 50px;
+}
+.b-content_img-3{
+    width: 70%;
+}
+.b-company__content-1{
+    float: right;
+    top: 160px;
+}
+.b-content_button{
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 35%;
+    width: 250px;
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+    margin-top: 50px;
+}
+.b-content_text{
+    font-size: 20px;
+    font-style: italic;
+}
+
+
